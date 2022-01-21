@@ -14,6 +14,7 @@ Use Helm to:
 - Create reproducible builds of your Kubernetes applications
 - Intelligently manage your Kubernetes manifest files
 - Manage releases of Helm packages
+- This is a test line
 
 ## Helm in a Handbasket
 
